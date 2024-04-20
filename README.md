@@ -1,4 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%F0%9F%91%8B+I'm+TuCodeDao)](https://git.io/typing-svg)<br>
+<!-- Header -->
+<div align="center">
+   <h1>Hi👋 I'm TuCodeDao.</h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%F0%9F%91%8B+I'm+TuCodeDao" alt="Typing SVG" /></a>
+</div>
+<!-- Header -->
+<br>
+
+
+<!-- Banner -->
+
+<!-- Banner -->
+
+<br>
+<!-- Start About Me -->
+<div>
+   <div align=left> 
+- 👋 Hi, I’m Tu
+   <br>
+- 👀 I’m interested in Badminton
+   <br>
+- 🌱 I’m currently learning programming.
+   <br>
+- 👨‍💻 My Web Personal Portfolio []
+   <br>
+- 📫 How to reach me **tobatu3004@gmail.com**
+</div>
+</div>
+<!-- Start About Me -->
+<br>
+<br>
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/TuCodeDao) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tutaki304) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tutaki304) 
 
