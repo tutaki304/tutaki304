@@ -1,7 +1,8 @@
 <!-- Header -->
 <div align="center">
    <h1>Hi👋 I'm TuCodeDao.</h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%F0%9F%91%8B+I'm+TuCodeDao" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%F0%9F%91%8B+I'm+TuCodeDao" ;Nice+To+Meet+You;Enjoy+It+While+It+Lasts" alt="Typing SVG" /></a>
+</div> /></a>
 </div>
 <!-- Header -->
 <br>
