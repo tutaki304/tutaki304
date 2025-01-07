@@ -12,9 +12,7 @@ I'm Tu from Vietnam, and I develop mobile applications focusing on Flutter, IOS,
 * IOS
 * Android
 ### Programming Language
-*  Dart
 *  Java
-*  Swift
-*  Kotlin
+*  C++
 ### Design
 * UI/UX
