@@ -14,5 +14,6 @@ I'm Tu from Vietnam, and I develop mobile applications focusing on Flutter, IOS,
 ### Programming Language
 *  Java
 *  C++
+*  Dart
 ### Design
 * UI/UX
