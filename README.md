@@ -8,6 +8,7 @@ I'm Tu from Vietnam, and I develop mobile applications focusing on Flutter, IOS,
 ### Platform
 * Flutter
 * React Native
+* .Net
 ### Operating System
 * IOS
 * Android
@@ -15,5 +16,6 @@ I'm Tu from Vietnam, and I develop mobile applications focusing on Flutter, IOS,
 *  Java
 *  C++
 *  Dart
+*  C#
 ### Design
 * UI/UX
