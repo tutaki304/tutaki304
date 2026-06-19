@@ -1,8 +1,8 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1200&pause=500&color=FF9999&vCenter=true&width=1000&height=60&lines=Hey+there!+I'm+To+Ba+Tu;Mobile+%26+Full-stack+Developer;Flutter+%7C+.NET+Backend+%7C+Unity+C%23+%7C+Next.js;Building+apps%2C+games%2C+and+AI-powered+products)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1200&pause=500&color=FF9999&vCenter=true&width=1000&height=60&lines=Hey+there!+I'm+To+Ba+Tu;Mobile+%26+Full-stack+Developer;Android+%7C+iOS+%7C+.NET+%7C+Unity+C%23+%7C+Next.js;Building+AI-powered+apps%2C+games%2C+and+web+platforms)
 
-I'm Tu from Vietnam, a Mobile and Full-stack Developer with experience in Flutter, React Native, .NET backend, Unity game development, and modern web technologies.
+I'm Tu from Vietnam, a Mobile & Full-stack Developer who enjoys building practical, user-friendly software products.
 
-I enjoy building clean user interfaces, intuitive user experiences, scalable backend APIs, and interactive products. Recently, I developed **VEP - Vietnam Education Platform**, an AI-powered education platform that combines web dashboard, REST API, database design, authentication, document management, and AI-generated learning features.
+My main focus is on mobile development, backend systems, and interactive experiences. I work with Android, iOS, .NET backend, Next.js, and Unity C#, and I enjoy combining clean UI/UX with solid API design, database structure, and AI-powered features.
 
 ## My Toolkit
 
@@ -63,6 +63,6 @@ I'm interested in building practical software products that combine strong UI/UX
 
 ## Connect With Me
 
-- GitHub: [Your GitHub](https://github.com/tutaki304)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/t%C3%B4-b%C3%A1-t%C3%BA-648708332/)
+- GitHub: [To Ba Tu](https://github.com/tutaki304)
+- LinkedIn: [To Ba Tu](https://www.linkedin.com/in/t%C3%B4-b%C3%A1-t%C3%BA-648708332/)
 - Email: tobatu3004@gmail.com
