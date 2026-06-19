@@ -35,14 +35,18 @@ Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQ
 
 ## Game Development
 
-Unity Game Developer (Personal Project) — Space Asteroid
+## Unity Game Developer (Personal Project) — Space Asteroid
 
-Designed and implemented core gameplay systems in Unity + C#: player controller, projectile logic, enemy/asteroid behavior, and difficulty pacing.
-Developed modular game architecture using prefabs and reusable scripts for faster iteration and maintainability.
-Implemented collision and combat interactions with Unity 2D physics (hit detection, damage handling, object destruction).
-Built UI/UX flow including menu navigation, in-game HUD, score/lives tracking, pause/game-over states, and restart loop.
-Integrated visual polish with ShaderLab/HLSL shaders and effects to improve game feedback and immersion.
-Performed playtesting and parameter tuning (spawn frequency, speed curves, scoring balance) to deliver a smoother player experience.
+**Repository:** https://github.com/tutaki304/Code_Game_SpaceAsteroid
+
+- Designed and implemented core gameplay systems in Unity + C#: player controller, projectile logic, enemy/asteroid behavior, and difficulty pacing.
+- Developed modular game architecture using prefabs and reusable scripts for faster iteration and maintainability.
+- Implemented collision and combat interactions with Unity 2D physics (hit detection, damage handling, object destruction).
+- Built UI/UX flow including menu navigation, in-game HUD, score/lives tracking, pause/game-over states, and restart loop.
+- Integrated visual polish with ShaderLab/HLSL shaders and effects to improve game feedback and immersion.
+- Performed playtesting and parameter tuning (spawn frequency, speed curves, scoring balance) to deliver a smoother player experience.
+
+**Tech Stack:** Unity, C#, ShaderLab, HLSL, Unity 2D Physics, Prefabs, UI System
 
 ## What Fuels My Fire
 
