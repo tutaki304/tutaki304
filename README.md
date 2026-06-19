@@ -35,12 +35,14 @@ Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQ
 
 ## Game Development
 
-Besides web and mobile development, I also build games using Unity and C#.
+Unity Game Developer (Personal Project) — Space Asteroid
 
-- Developed gameplay mechanics and player control systems
-- Built game UI, menus, scoring systems, and level flow
-- Worked with Unity physics, animation, collision detection, and prefabs
-- Focused on creating interactive and enjoyable user experiences
+Designed and implemented core gameplay systems in Unity + C#: player controller, projectile logic, enemy/asteroid behavior, and difficulty pacing.
+Developed modular game architecture using prefabs and reusable scripts for faster iteration and maintainability.
+Implemented collision and combat interactions with Unity 2D physics (hit detection, damage handling, object destruction).
+Built UI/UX flow including menu navigation, in-game HUD, score/lives tracking, pause/game-over states, and restart loop.
+Integrated visual polish with ShaderLab/HLSL shaders and effects to improve game feedback and immersion.
+Performed playtesting and parameter tuning (spawn frequency, speed curves, scoring balance) to deliver a smoother player experience.
 
 ## What Fuels My Fire
 
