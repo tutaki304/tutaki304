@@ -23,6 +23,9 @@ VEP is an AI-powered education platform designed to support online learning, doc
 **Tech Stack:**  
 Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQL, JWT, Google Gemini API
 
+**AI / LLM Integration:**  
+Google Gemini API, LLM Prompt Design, AI Question Generation, PDF-based Content Processing, AI Writing Evaluation, Structured JSON Response Handling
+
 **Key Features:**
 
 - Built a responsive dashboard for students, teachers, and administrators
@@ -39,6 +42,8 @@ Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQ
 
 **Repository:** https://github.com/tutaki304/Code_Game_SpaceAsteroid
 
+**Tech Stack:** Unity, C#, ShaderLab, HLSL, Unity 2D Physics, Prefabs, UI System
+
 - Designed and implemented core gameplay systems in Unity + C#: player controller, projectile logic, enemy/asteroid behavior, and difficulty pacing.
 - Developed modular game architecture using prefabs and reusable scripts for faster iteration and maintainability.
 - Implemented collision and combat interactions with Unity 2D physics (hit detection, damage handling, object destruction).
@@ -46,7 +51,6 @@ Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQ
 - Integrated visual polish with ShaderLab/HLSL shaders and effects to improve game feedback and immersion.
 - Performed playtesting and parameter tuning (spawn frequency, speed curves, scoring balance) to deliver a smoother player experience.
 
-**Tech Stack:** Unity, C#, ShaderLab, HLSL, Unity 2D Physics, Prefabs, UI System
 
 ## What Fuels My Fire
 
