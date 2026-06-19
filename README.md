@@ -6,13 +6,13 @@ I enjoy building clean user interfaces, intuitive user experiences, scalable bac
 
 ## My Toolkit
 
-- **Mobile Development:** Flutter, React Native, iOS, Android
+- **Mobile Development:** Kotlin, Java, iOS, Android
 - **Backend Development:** C#, ASP.NET Core Web API, RESTful API, JWT Authentication, Entity Framework Core
 - **Web Development:** Next.js, React, TypeScript, Tailwind CSS
 - **Game Development:** Unity, C#, Gameplay Programming, Unity UI, 2D/3D Game Development
-- **Database:** SQL Server, PostgreSQL, Prisma ORM
+- **Database:** SQL Server, PostgreSQL, Prisma ORM, MySQL
 - **AI Integration:** Google Gemini API, AI Question Generation, PDF-based Learning Content Processing
-- **Tools:** Git, GitHub, Postman, Figma, Visual Studio, VS Code
+- **Tools:** Git, GitHub, Postman, Figma, Visual Studio, VS Code, Unity, Android Studio, Antigravity
 
 ## Featured Project
 
